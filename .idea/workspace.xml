@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2fde61b-d176-4853-a0f6-2c05afb44a79" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XfGIGpVpnRgvA904fAUICvsVos" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunManager" selected="JUnit.BusStopTest.checkCanRemovePassengerFromQueue">
+    <configuration name="BusStopTest.canAddPassengerToBusStop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BusStopLab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BusStopTest" />
+      <option name="METHOD_NAME" value="canAddPassengerToBusStop" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BusStopTest.checkCanRemovePassengerFromQueue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BusStopLab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BusStopTest" />
+      <option name="METHOD_NAME" value="checkCanRemovePassengerFromQueue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BusStopTest.checkQueueIsEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BusStopLab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BusStopTest" />
+      <option name="METHOD_NAME" value="checkQueueIsEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BusTest.checkCanAddPassengerToBusNotOverCapacity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BusStopLab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BusTest" />
+      <option name="METHOD_NAME" value="checkCanAddPassengerToBusNotOverCapacity" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BusTest.checkCanPickUpFromBusStop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BusStopLab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BusTest" />
+      <option name="METHOD_NAME" value="checkCanPickUpFromBusStop" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BusStopTest.checkCanRemovePassengerFromQueue" />
+        <item itemvalue="JUnit.BusTest.checkCanPickUpFromBusStop" />
+        <item itemvalue="JUnit.BusStopTest.checkQueueIsEmpty" />
+        <item itemvalue="JUnit.BusStopTest.canAddPassengerToBusStop" />
+        <item itemvalue="JUnit.BusTest.checkCanAddPassengerToBusNotOverCapacity" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2fde61b-d176-4853-a0f6-2c05afb44a79" name="Default Changelist" comment="" />
+      <created>1581429653984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581429653984</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1359" height="230" key="GridCell.Tab.0.bottom" timestamp="1581433320116">
+      <screen x="39" y="23" width="1401" height="877" />
+    </state>
+    <state width="1359" height="230" key="GridCell.Tab.0.bottom/39.23.1401.877@39.23.1401.877" timestamp="1581433320116" />
+    <state width="1359" height="230" key="GridCell.Tab.0.center" timestamp="1581433320116">
+      <screen x="39" y="23" width="1401" height="877" />
+    </state>
+    <state width="1359" height="230" key="GridCell.Tab.0.center/39.23.1401.877@39.23.1401.877" timestamp="1581433320116" />
+    <state width="1359" height="230" key="GridCell.Tab.0.left" timestamp="1581433320115">
+      <screen x="39" y="23" width="1401" height="877" />
+    </state>
+    <state width="1359" height="230" key="GridCell.Tab.0.left/39.23.1401.877@39.23.1401.877" timestamp="1581433320115" />
+    <state width="1359" height="230" key="GridCell.Tab.0.right" timestamp="1581433320116">
+      <screen x="39" y="23" width="1401" height="877" />
+    </state>
+    <state width="1359" height="230" key="GridCell.Tab.0.right/39.23.1401.877@39.23.1401.877" timestamp="1581433320116" />
+    <state x="404" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1581432156818">
+      <screen x="39" y="23" width="1401" height="877" />
+    </state>
+    <state x="404" y="213" width="670" height="676" key="search.everywhere.popup/39.23.1401.877@39.23.1401.877" timestamp="1581432156818" />
+  </component>
+</project>
